@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Lionel Messi's MLS debut postponed amid Miami Leagues Cup run - ESPN",
+        "description": "Lionel Messi will have to wait a few days longer to make his official debut in Major League Soccer with Inter Miami.",
+        "url": "https://www.espn.com/soccer/story/_/id/38162136/lionel-messi-mls-debut-postponed-amid-miami-leagues-cup-run",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0809%2Fr1208373_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-08-09T16:38:42Z",
+        "content": "Lionel Messi will have to wait a few days longer to make his official debut in Major League Soccer.\r\nIt was announced Wednesday that Inter Miami's Aug. 20 home matchup against Charlotte FC, long expe… [+1606 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "Martin Rogers",
+        "title": "Why the spread of women's soccer makes 2027 World Cup bid fascinating",
+        "description": "This 2023 tournament is showcasing how women's soccer isn't just deeper but also geographically wider. This spread is good for the game, but also creates a fascinating conundrum over where the next World Cup should be staged.",
+        "url": "http://www.foxsports.com/stories/soccer/why-the-spread-of-womens-soccer-makes-2027-world-cup-bid-fascinating",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.08.23_The-Most-Fascinating-WC-Bidding-Process-Ever_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2023-08-09T01:02:14Z",
+        "content": "The World Cup is the most popular tournament in women's soccer, but it is also a showcase, an unrivaled opportunity for some of the brightest stars in the game to be seen, heard and for the full weig… [+4993 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "",
+        "title": "Video: Why some Americans are cheering the US women's soccer team's loss | CNN Politics",
+        "description": "CNN’s Laura Coates discusses why some conservatives are celebrating the US women’s soccer team’s recent World Cup loss with Rachel Nichols, host of “Headliners with Rachel Nichols.”",
+        "url": "https://www.cnn.com/videos/politics/2023/08/08/conservatives-us-womens-soccer-loss-sot-vpx.cnn",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808133343-megyn-kelly-megan-rapinoe.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T17:38:30Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "Doug McIntyre",
+        "title": "10 potential coach candidates if USWNT moves on from Vlatko Andonovski",
+        "description": "No announcement regarding coach Vlatko Andonovksi's future has been made, but here are 10 possible replacements if U.S. Soccer decides to go another direction after this disappointing World Cup finish.",
+        "url": "http://www.foxsports.com/stories/soccer/10-potential-coach-candidates-if-uswnt-moves-on-from-vlatko-andonovski",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/coaches1.jpg?ve=1&tl=1",
+        "publishedAt": "2023-08-08T07:09:29Z",
+        "content": "Two days after the United States crashed out of the 2023 Women's World Cup with a shocking round of 16 loss to Sweden, no announcement regarding coach Vlatko Andonovksi's future has been made.\r\n\"As w… [+7743 chars]"
+      }
+    ]
+  }
